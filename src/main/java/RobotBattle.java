@@ -9,5 +9,6 @@ public class RobotBattle {
         battle.start();
         battle.printResult();
 
+        System.out.println("add new comment");
     }
 }
