@@ -10,5 +10,7 @@ public class RobotBattle {
         battle.printResult();
 
         System.out.println("add new comment");
+        System.out.println("add another comment");
+
     }
 }
